@@ -98,27 +98,3 @@ print(list1)
 h = plt.hist(list1, bins=30, stacked=True, rwidth=1, label=mylabels)
 plt.legend()
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
